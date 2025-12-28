@@ -4,7 +4,7 @@
 Welcome to my cybersecurity hub. I am a recent graduate and SOC Analyst focused on defensive security and complex problem-solving. Inside, you'll find a showcase of my technical skills, certifications, and project insights. Let's connect and collaborate on securing your infrastructure.
 
 ## Objective
-Aspiring SOC Analyst transitioning from a background in Building Construction, driven by a deep curiosity for technology and digital defense. I bring a disciplined, structural approach to problem-solving and am seeking a Tier 1 Analyst role to apply my skills in threat detection, incident response, and securing organizational infrastructure.
+Aspiring SOC Analyst transitioning from a background in Building Construction, driven by a deep curiosity for technology and digital defense. I bring a disciplined, structural approach to problem-solving and I am seeking a Tier 1 Analyst role to apply my skills in threat detection, incident response, and securing organizational infrastructure.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
